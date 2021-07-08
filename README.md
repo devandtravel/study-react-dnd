@@ -1,3 +1,19 @@
+# Drag and Drop with React JS
+
+reference: [Drag and Drop with React JS](https://www.youtube.com/playlist?list=PL6DxKON1uLOENy8yYgn0uLwB6p8eAW9NZ) by [UlbiTV](https://www.youtube.com/c/UlbiTV)
+
+Enviroment requiremens
+
+-   Node JS
+-   Create React App
+
+To install node modules before getting started run
+`npm i` or `yarn install`
+
+To execute run  
+`npm start` or `yarn start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
